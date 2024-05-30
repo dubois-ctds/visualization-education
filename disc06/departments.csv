@@ -1,0 +1,6 @@
+﻿department,num_students,num_classes,total_funding,is_STEM?
+CDSS,837,103,1148364,TRUE
+EECS,653,95,780335,TRUE
+Sociology,235,36,251685,FALSE
+Economics,359,78,600248,TRUE
+English,113,23,99327,FALSE
